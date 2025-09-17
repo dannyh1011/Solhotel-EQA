@@ -160,8 +160,8 @@
       {
         q: "Coin-operated Self-service Washer / Dryer – Fee Information？",
         a: `▪ Washing Machine (Wash + Spin Dry)<br>
-            . Time Required: Approx. 40 minutes<br>
-            . Cost: NT$50 (Insert five NT$10 coins)<br><br>
+            . Cost: NT$50 (Insert five NT$10 coins)<br>
+            . Time Required: Approx. 40 minutes<br><br>
       
             ▪ Dryer<br>
             . Cost: NT$10 per 8 minutes (Insert one NT$10 coin per cycle)<br>
