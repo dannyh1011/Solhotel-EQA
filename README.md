@@ -156,6 +156,17 @@
         ▪ From HSR Hsinchu Station → 2-min walk over the skybridge to Liujia TRA Station → transfer to Hsinchu TRA Station → 8-min walk to hotel<br>
         ▪ No shuttle service provided.`
   },
+
+      {
+        q: "Coin-operated Self-service Washer / Dryer – Fee Information？",
+        a: `▪ Washing Machine (Wash + Spin Dry)<br>
+            . Time Required: Approx. 40 minutes<br>
+            . Cost: NT$50 (Insert five NT$10 coins)<br><br>
+      
+            ▪ Dryer<br>
+            . Cost: NT$10 per 8 minutes (Insert one NT$10 coin per cycle)<br>
+            . Recommended Time: About 40 minutes or more depending on load (At least five NT$10 coins)<br>`
+      },
   {
     q: "What are the check-in/out times and luggage storage policy?",
     a: `▪ Check-in: after 15:00; Check-out: before 11:00.<br>
