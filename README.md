@@ -129,15 +129,12 @@
     a: `▪ Infants under 1 may use baby cots (limited, by request).<br>
         ▪ Under 109 cm: Free of charge<br>
         ▪ 110–139 cm: NT$220<br>
-        ▪ Over 140 cm: Charged as adult, extra bed recommended<br>
-        ▪ Extra bed with breakfast: NT$880 (NT$1200 during Chinese New Year), without breakfast: NT$550 (NT$1000 during CNY)`
+        ▪ Over 140 cm: Charged as adult, extra bed recommended<br>`
   },
   {
     q: "What are the charges for additional adults?",
-    a: `▪ With breakfast: NT$880 per person (NT$1200 during CNY)<br>
-        Without extra bed: NT$500 (NT$800 during CNY)<br><br>
-        ▪ Without breakfast: NT$550 (NT$1000 during CNY)<br>
-        Without extra bed: NT$400 (NT$500 during CNY)<br><br>
+    a: `▪ With breakfast : NT$500 <br><br>
+        ▪ Without breakfast : NT$400 <br><br>
         ⭐ Standard Double Rooms do not support extra beds.`
   },
 
