@@ -101,9 +101,10 @@
         ⭐ No EV charging station available in the hotel.`
   },
   {
-    q: "Breakfast Contents ・ Serving Hours?",
+    q: "Breakfast content and serving hours? Is vegetarian food available?",
     a: `▪ Buffet with Chinese, Western, and Japanese selections.<br>
-        ▪ Served 6:30 ~ 10:00. Please provide your room number and number of guests.<br><br>
+        ▪ Served 6:30 ~ 10:00. Please provide your room number and number of guests.<br>
+        ▪ Buffet style with only a limited selection of vegetarian options.<br><br>
        ⭐ During peak holiday periods, dining time may be limited to 1 hour.`
   },
   {
