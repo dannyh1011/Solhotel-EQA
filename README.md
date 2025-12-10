@@ -129,7 +129,7 @@
     q: "What are the child surcharges?",
     a: `▪ Infants under 1 may use baby cots (limited, by request).<br>
         ▪ Under 109 cm: Free of charge<br>
-        ▪ 110–139 cm: NT$220<br>
+        ▪ 110–139 cm: NT$250<br>
         ▪ Over 140 cm: Charged as adult, extra bed recommended<br>`
   },
   {
