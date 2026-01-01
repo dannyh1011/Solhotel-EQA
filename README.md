@@ -134,8 +134,8 @@
   },
   {
     q: "What are the charges for additional adults?",
-    a: `▪ With breakfast : NT$500 <br><br>
-        ▪ Without breakfast : NT$400 <br><br>
+    a: `▪ With breakfast : NT$700 <br><br>
+        ▪ Without breakfast : NT$500 <br><br>
         ⭐ Standard Double Rooms do not support extra beds.`
   },
 
