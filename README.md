@@ -104,8 +104,9 @@
     q: "Breakfast content and serving hours? Is vegetarian food available?",
     a: `▪ Buffet with Chinese, Western, and Japanese selections.<br>
         ▪ Served 6:30 ~ 10:00. Please provide your room number and number of guests.<br>
+        ▪ Breakfast: NT$495 per person.<br>
         ▪ Buffet style with only a limited selection of vegetarian options.<br><br>
-       ⭐ During peak holiday periods, dining time may be limited to 1 hour.`
+       ⭐ During peak holiday periods, dining time may be limited to 1 hour.  ⭐ Lunar New Year pricing may vary.`
   },
   {
     q: "Do you provide baby cots and bed guards?",
