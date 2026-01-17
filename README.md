@@ -144,6 +144,11 @@
     q: "Is there an age restriction for staying?",
     a: `▪ Guests must be at least ⭐20 years old to check in.`
   },
+         {
+        q: "Are pets allowed to stay at the hotel?？",
+        a: `▪ We regret to inform you that pets are not permitted at our hotel.
+Only guide dogs and certified service animals are allowed.`。
+      },
       
   {
     q: "What is the definition of weekday and weekend rates?",
