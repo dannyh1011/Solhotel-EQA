@@ -147,7 +147,7 @@
          {
         q: "Are pets allowed to stay at the hotel?？",
         a: `▪ We regret to inform you that pets are not permitted at our hotel.
-Only guide dogs and certified service animals are allowed.`。
+Only guide dogs and certified service animals are allowed.`
       },
       
   {
